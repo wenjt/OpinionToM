@@ -4,7 +4,7 @@ import numpy as np
 from openai import OpenAI
 import os
 import openai
-os.environ["OPENAI_API_KEY"] = 'sk-oKh7ezw04Ku9XjFf8f8a5d1b41Ea4296B54317569e784821'
+os.environ["OPENAI_API_KEY"] = ''
 #os.environ["http_proxy"] = "http://localhost:7890"
 #os.environ["https_proxy"] = "http://localhost:7890"
 import httpx
